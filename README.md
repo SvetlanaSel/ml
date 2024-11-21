@@ -9,4 +9,4 @@
 
 [урок 3.6](https://github.com/SvetlanaSel/ml/blob/main/3.6.ipynb)
 
-[урок 4.1](https://github.com/SvetlanaSel/ml/blob/main/4.1.ipynb)
+[урок 4.1](https://github.com/SvetlanaSel/Distributed_systems/blob/main/4_1.ipynb)
