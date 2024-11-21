@@ -5,7 +5,7 @@
 
 [урок 3.4](https://github.com/SvetlanaSel/ml/blob/main/3.4.ipynb)
 
-[урок 3.5](https://github.com/SvetlanaSel/ml/blob/main/3.5.ipynb)
+[урок 3.5](https://github.com/SvetlanaSel/Distributed_systems/blob/main/3_5.ipynb)
 
 [урок 3.6](https://github.com/SvetlanaSel/ml/blob/main/3.6.ipynb)
 
